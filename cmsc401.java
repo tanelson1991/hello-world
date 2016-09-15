@@ -16,7 +16,9 @@ public class cmsc401
 		int totalNums = input.nextInt();
 		
 		int[] W = new int[totalNums];
-		System.out.println("What is up github?")
+		System.out.println("What is up github?");
+		
+		System.out.println("ok, let's try this thing again");
 		
 		
 		
